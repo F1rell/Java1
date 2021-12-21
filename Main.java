@@ -3,10 +3,10 @@ public class Main {
 
         int eaters = 5; // сколько людей будут есть
 
-        int water = 3000; // миллилитров воды
-        int potatoes = 5; // картофелин
-        int chicken = 6; // куриных бёдер
-        int spices = 10; // ложек специй
+        int water = 3009; // миллилитров воды
+        int potatoes = 6; // картофелин
+        int chicken = 7; // куриных бёдер
+        int spices = 11; // ложек специй
 
         System.out.println("Сварили суп. На одного человека вышло:");
         System.out.println((water / eaters) + " миллилитров воды");
